@@ -36,7 +36,7 @@ Engenheira com uma jornada no empreendedorismo, onde descobri minha paixão por 
 <div align="center">
   <a href="https://github.com/Nayarah">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Nayarah&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=873e23&border_color=eab676&title_color=eab676&text_color=FFF&icon_color=eab676"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayarah&layout=compact&langs_count=7&theme=transparent&bg_color=873e23&border_color=eab676&title_color=eab676&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayarah&layout=compact&langs_count=7&theme=transparent&bg_color=873e23&border_color=eab676&title_color=eab676&text_color=FFF&icon_color=eab676**&hide=php**"/>
 </div>
 
 ---
