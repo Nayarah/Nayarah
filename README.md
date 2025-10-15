@@ -48,6 +48,8 @@ Engenheira de Controle e Automação com expertise em Business Intelligence, Oti
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayarah&repo=pipeline-etl-ecommerce&bg_color=873e23&border_color=eab676&show_icons=true&icon_color=eab676&title_color=eab676&text_color=FFF)](https://github.com/Nayarah/pipeline-etl-ecommerce)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayarah&repo=dbt_analise_comex&bg_color=873e23&border_color=eab676&show_icons=true&icon_color=eab676&title_color=eab676&text_color=FFF)](https://github.com/Nayarah/dbt_analise_comex.git)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayarah&repo=case-company_zenith-flow&bg_color=873e23&border_color=eab676&show_icons=true&icon_color=eab676&title_color=eab676&text_color=FFF)](https://github.com/Nayarah/case-company_zenith-flow.git)
 ---
 
 ### 🌱 O que estou aprendendo
